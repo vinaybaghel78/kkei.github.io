@@ -1,3 +1,3 @@
-# http://kkei.github.io/
+# https://kkei.github.io/
 
 its school website
